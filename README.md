@@ -1,1 +1,1 @@
-### Hi, there
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%20I'm%20Donghwan&fontColor=e7feff&fontAlignY=50&animation=twinkling&stroke=000000&strokeWidth=2&rotate=0)
