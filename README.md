@@ -1,6 +1,6 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%20I'm%20Donghwan&fontColor=e7feff&fontAlignY=50&animation=twinkling&stroke=000000&strokeWidth=2&rotate=0)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTerryKim2&count_bg=%2379C83D&title_bg=%23AA1ED7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 ### Java Programmer, Donghwan Kim
 
